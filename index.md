@@ -2,8 +2,8 @@
 
 We are collecting donations that will be transferred to the hero or family of the hero which gets rid of Putin once and for all.
 
-We understand that the realities of the dictatorship of Russia, the money you transfer may not be needed in the near future as it can take a very long time to remove a dictator that is as well establish as Mr. Putler.
-Therefore, we are making a promise to transfer half of the available amount to support the Ukrainian army and help refugees starting from the 2nd week after the opening of the fund. 
+We understand that the realities of the dictatorship of Russia, the money you transfer may not be needed in the near future as it can take a very long time to remove a dictator that is as well established as Mr. Putler.
+Therefore, we are making a promise to transfer half of the available amount to support the Ukrainian army and help refugees starting from the 2nd week after the opening of the fund.
 
 Your donations will start helping the innocent victims of war, whilest the reward for removing Putin will keep growing.
 
