@@ -20,4 +20,5 @@ Address: [bc1qrmfgjmzr3jh9dl9rgy2y4n72ccrmre7ldanmw2](https://www.blockchain.com
 
 ### National Bank of Ukraine's Bitcoin (we will donate 50% of our fund here weekly)
 Address: [357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P](https://www.blockchain.com/btc/address/357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P)
-Source: https://twitter.com/Ukraine/status/1497594592438497282
+
+Source: [Ukraine's Official Twitter](https://twitter.com/Ukraine/status/1497594592438497282)
