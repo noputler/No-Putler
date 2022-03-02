@@ -11,7 +11,7 @@ Maintenance of the fund and any costs associated with its maintenance will be ca
 
 In the event of the end of the war with Ukraine for reasons other than the annihilation of Putin, the entire amount will be spent on helping the victims of the war.
 
-We understand that reason for donating is probably unusual for you. In order to avoid misunderstandings with the law, taxation, and just for those who want to remain anonymous, we have decided to use cryptocurrency. For those who want to leave their name, we will create a separate page. Money transfer reports will be published publicly (we are working on page displaying donations coming soon).
+We understand that reason for donating is probably unusual for you. In order to avoid misunderstandings with the law, taxation, and just for those who want to remain anonymous, we have decided to use cryptocurrency. For those who want to leave their name, we will create a separate page. Money transfer reports will be published publicly (as well as indefinitely stored on the blockchain).
 
 ### Bitcoin
 Address: [bc1qrmfgjmzr3jh9dl9rgy2y4n72ccrmre7ldanmw2](https://www.blockchain.com/btc/address/bc1qrmfgjmzr3jh9dl9rgy2y4n72ccrmre7ldanmw2)
