@@ -1,4 +1,6 @@
 theme: jekyll-theme-hacker
 title: No Putler!
 show_downloads: false
-description: Fund to remove Putin from Russia.
+description: Fund to remove Putin.
+github:
+  is_project_page: false
