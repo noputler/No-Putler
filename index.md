@@ -1,4 +1,4 @@
-## No Putler!
+## Our Mission
 
 We are collecting donations that will be transferred to the hero or family of the hero which gets rid of Putin once and for all.
 
@@ -12,3 +12,6 @@ Maintenance of the fund and any costs associated with its maintenance will be ca
 In the event of the end of the war for reasons other than the annihilation of Putin, the entire amount will be spent on helping the victims of the war.
 
 We understand that reason for donating is probably unusual for you. In order to avoid misunderstandings with the law, taxation, and just for those who want to remain anonymous, we have decided to use cryptocurrency. For those who want to leave their name, we will create a separate page. Money transfer reports will be published publicly.
+
+### Bitcoin
+
