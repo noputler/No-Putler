@@ -14,6 +14,6 @@ In the event of the end of the war with Ukraine for reasons other than the annih
 We understand that reason for donating is probably unusual for you. In order to avoid misunderstandings with the law, taxation, and just for those who want to remain anonymous, we have decided to use cryptocurrency. For those who want to leave their name, we will create a separate page. Money transfer reports will be published publicly (we are working on page displaying donations coming soon).
 
 ### Bitcoin
-Address: bc1qrmfgjmzr3jh9dl9rgy2y4n72ccrmre7ldanmw2
+Address: [https://www.blockchain.com/btc/address/bc1qrmfgjmzr3jh9dl9rgy2y4n72ccrmre7ldanmw2](bc1qrmfgjmzr3jh9dl9rgy2y4n72ccrmre7ldanmw2)
 
 ![noputlerbtc](https://user-images.githubusercontent.com/5841757/156459011-77ee7923-fece-41ed-b907-fa9367107462.png)
