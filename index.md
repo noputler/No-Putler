@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## No Putler!
 
-You can use the [editor on GitHub](https://github.com/noputler/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are collecting donations that will be transferred to the hero or family of the hero which gets rid of Putin once and for all.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We understand that the realities of the dictatorship of Russia, the money you transfer may not be needed in the near future as it can take a very long time to remove a dictator that is as well establish as Mr. Putler.
+Therefore, we are making a promise to transfer half of the available amount to support the Ukrainian army and help refugees starting from the 2nd week after the opening of the fund. 
 
-### Markdown
+Your donations will start helping the innocent victims of war, whilest the reward for removing Putin will keep growing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Maintenance of the fund and any costs associated with its maintenance will be carried out on a voluntary basis. 
 
-```markdown
-Syntax highlighted code block
+In the event of the end of the war for reasons other than the annihilation of Putin, the entire amount will be spent on helping the victims of the war.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noputler/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We understand that reason for donating is probably unusual for you. In order to avoid misunderstandings with the law, taxation, and just for those who want to remain anonymous, we have decided to use cryptocurrency. For those who want to leave their name, we will create a separate page. Money transfer reports will be published publicly.
