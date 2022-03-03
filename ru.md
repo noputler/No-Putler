@@ -1,4 +1,4 @@
-[in english](/) / [по-українськи](ru)
+[in english](/) / [по-українськи](ua)
 
 ## Наша Миссия
 
@@ -17,7 +17,7 @@ Address: [bc1qrmfgjmzr3jh9dl9rgy2y4n72ccrmre7ldanmw2](https://www.blockchain.com
 
 ![noputlerbtc](https://user-images.githubusercontent.com/5841757/156459011-77ee7923-fece-41ed-b907-fa9367107462.png)
 
-### National Bank of Ukraine (we will donate 50% of our fund here weekly)
+### Национальный банк Украины (еженедельно мы будем жертвовать сюда 50% нашего фонда)
 Address: [357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P](https://www.blockchain.com/btc/address/357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P)
 
 Source: [Ukraine's Official Twitter](https://twitter.com/Ukraine/status/1497594592438497282)
