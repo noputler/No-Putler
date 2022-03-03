@@ -10,7 +10,7 @@ Your donations will start helping the innocent victims of war, whilest the rewar
 
 Maintenance of the fund and any costs associated with its maintenance will be carried out on a voluntary basis.
 
-In the event of the end of the war with Ukraine for reasons other than the annihilation of Putin, the entire amount will be spent on helping the victims of the war.
+In the event of the end of the war with Ukraine for reasons other than the removal of Putin, the entire amount will be spent on helping the victims of the war.
 
 We understand that reason for donating is probably unusual for you. In order to avoid misunderstandings with the law, taxation, and just for those who want to remain anonymous, we have decided to use cryptocurrency. For those who want to leave their name, we will create a separate page. Money transfer reports will be published publicly (we are working on page displaying donations coming soon).
 
