@@ -1,4 +1,4 @@
-[Russian](ru)
+[по-русски](ru) [по-українськи](ru)
 
 ## Our Mission
 
