@@ -1,3 +1,5 @@
+[Russian](ru)
+
 ## Our Mission
 
 We are collecting donations that will be transferred to the hero or family of the hero which gets rid of Putin once and for all.
